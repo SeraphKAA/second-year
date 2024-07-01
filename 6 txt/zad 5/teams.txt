@@ -1,0 +1,4 @@
+Team Alpha,3,1,0,10
+Team Betta,1,1,0,5
+Team Gamma,0,2,2,3
+Team Delta,0,4,1,1
