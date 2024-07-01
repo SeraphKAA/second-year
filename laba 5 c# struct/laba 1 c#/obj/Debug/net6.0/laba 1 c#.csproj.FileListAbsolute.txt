@@ -1,0 +1,30 @@
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\bin\Debug\net6.0\laba 1 c#.exe
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\bin\Debug\net6.0\laba 1 c#.deps.json
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\bin\Debug\net6.0\laba 1 c#.runtimeconfig.json
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\bin\Debug\net6.0\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\bin\Debug\net6.0\laba 1 c#.pdb
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.csproj.AssemblyReference.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.AssemblyInfoInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.AssemblyInfo.cs
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.csproj.CoreCompileInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\refint\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.pdb
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\laba 1 c#.genruntimeconfig.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 1 c#\laba 1 c#\obj\Debug\net6.0\ref\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\bin\Debug\net6.0\laba 1 c#.exe
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\bin\Debug\net6.0\laba 1 c#.deps.json
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\bin\Debug\net6.0\laba 1 c#.runtimeconfig.json
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\bin\Debug\net6.0\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\bin\Debug\net6.0\laba 1 c#.pdb
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.csproj.AssemblyReference.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.AssemblyInfoInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.AssemblyInfo.cs
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.csproj.CoreCompileInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\refint\laba 1 c#.dll
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.pdb
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\laba 1 c#.genruntimeconfig.cache
+C:\Users\79045\Desktop\бессонные ночи\структуры\лабы\laba 5 c# struct\laba 1 c#\obj\Debug\net6.0\ref\laba 1 c#.dll
