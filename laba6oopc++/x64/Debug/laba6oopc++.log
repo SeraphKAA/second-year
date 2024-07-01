@@ -1,0 +1,4 @@
+﻿  laba6oopc++.cpp
+C:\study\lab\laba6oopc++\laba6oopc++\laba6oopc++.cpp(23,25): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\study\lab\laba6oopc++\laba6oopc++\laba6oopc++.cpp(35,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  laba6oopc++.vcxproj -> C:\study\lab\laba6oopc++\x64\Debug\laba6oopc++.exe
